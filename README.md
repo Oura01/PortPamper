@@ -1,8 +1,8 @@
 # **PortPamper - Web-Based Port Scanner**  
 
-![Port Scanner Screenshot](https://via.placeholder.com/800x400) <!-- Add a screenshot of your app here -->
-
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Oura01/PortPamper)  
+
+![Screenshot 1](https://raw.githubusercontent.com/Oura01/PortPamper/main/docs/s1.png)
 
 PortPamper is a **web-based port scanner** that allows users to analyze target IPs or hostnames for open ports. It helps identify potential security vulnerabilities using **TCP/UDP scans**, **OS detection**, and **real-time progress tracking**. The application is built using **Flask (Python)** for the backend and **HTML, Tailwind CSS, and JavaScript** for the frontend.  
 
@@ -79,18 +79,13 @@ PortPamper is a **web-based port scanner** that allows users to analyze target I
 
 ## **🖼️ Screenshots**  
 📌 **Home Page:**  
-![Home Page](https://via.placeholder.com/400x200)  
+![Home Page](https://raw.githubusercontent.com/Oura01/PortPamper/main/docs/s1.png)  
 
 📌 **Scan Results:**  
-![Scan Results](https://via.placeholder.com/400x200)  
+![Scan Results](https://raw.githubusercontent.com/Oura01/PortPamper/main/docs/s3.png) 
 
 📌 **PDF Report:**  
-![PDF Report](https://via.placeholder.com/400x200)  
-
----
-
-## **📜 License**  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+![PDF Report](https://raw.githubusercontent.com/Oura01/PortPamper/main/docs/s2.png)
 
 ---
 
@@ -99,10 +94,13 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 🔹 **Tailwind CSS** – Simple and flexible frontend framework.  
 🔹 **Flask** – Lightweight and scalable backend framework.  
 
----
 
 ## **📬 Contact**  
 For feedback or inquiries, reach out:  
 📧 **Email:** hensikheni@web.de 
 💼 **LinkedIn:** [Hensi Kheni](https://www.linkedin.com/in/hensi-kheni-527184289)  
 
+---
+
+## **📜 License** ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
